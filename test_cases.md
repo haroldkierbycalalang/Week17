@@ -20,4 +20,4 @@ Tested by: Harold Kierby T. Calalang       Date: October 12, 2026
 | TC14 | Choose 2, enter - | Invalid input. Enter a whole number only. | It shows "Invalid input. Enter a whole number only." | Pass |
 
 ## Bugs Found and Fixed
-- The test that was hardest to pass.
+- The test that was hardest to pass. 
