@@ -24,7 +24,7 @@ This program is an integrated development project that monitors simulated device
    (On macOS or Linux, type: python3 device_monitor.py)
  
 ## Sample Output
-
+```text
 CPU CORE MONITORING SYSTEM
 
 [1] View Readings
@@ -41,7 +41,7 @@ Reading 2: 28 °C
 Reading 3: 35 °C
 Reading 4: 40 °C
 Reading 5: 60 °C
- 
+ ```
 ## Test Cases
 I performed 10 tests. 10 passed and 0 failed.
 Full details are in test_cases.md.
