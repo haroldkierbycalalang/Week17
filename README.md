@@ -25,7 +25,7 @@ This program is an integrated development project that monitors simulated device
  
 ## Sample Output
 
-SIMULATED DEVICE MONITORING SYSTEM
+CPU CORE MONITORING SYSTEM
 
 [1] View Readings
 [2] Add Reading
@@ -35,12 +35,12 @@ SIMULATED DEVICE MONITORING SYSTEM
 Enter choice: 1
 
 CURRENT READINGS
-
-Reading 1: 28 °C
-Reading 2: 31 °C
+----------------
+Reading 1: 30 °C
+Reading 2: 28 °C
 Reading 3: 35 °C
-Reading 4: 37 °C
-Reading 5: 29 °C
+Reading 4: 40 °C
+Reading 5: 60 °C
  
 ## Test Cases
 I performed 10 tests. 10 passed and 0 failed.
